@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 运行时截图（F12 生成的时间戳文件；selftest 的 0X_*.png 保留用于 README）
+screenshots/20*.png
+
+# PyInstaller 打包产物（exe 按需本地生成，不上传仓库）
+build/
+dist/
+*.spec

@@ -1,0 +1,5 @@
+# 「一箭又一箭」依赖清单
+# 安装：pip install -r requirements.txt
+# 推荐使用 uv 管理（uv sync），本文件由人工维护，与 pyproject.toml 保持一致
+pygame>=2.6.1
+pytest>=8.0
