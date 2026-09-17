@@ -8,7 +8,7 @@
 | 这个作业要求在哪里 | <作业链接>（待填） |
 | 这个作业的目标 | 使用 Python 和 AIGC 完成"一箭又一箭"小游戏 |
 | 学号 | XXXXXXXX（待填） |
-| GitHub 仓库 | <仓库链接>（待填） |
+| GitHub 仓库 | https://github.com/chirp77/arrow-game |
 
 ---
 
